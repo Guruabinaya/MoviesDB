@@ -1,5 +1,5 @@
 # MoviesDB
-""" This project is about movies databse storing, In thi we give the options are
+""" This project is about movies databse storing, In this we give the options are
   1.view DB
   2.Insert DB
   3.Update DB
